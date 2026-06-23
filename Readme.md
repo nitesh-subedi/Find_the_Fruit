@@ -145,9 +145,3 @@ If you find this code useful in your research, please cite:
   url     = {https://arxiv.org/abs/2505.16547}
 }
 ```
-
----
-
-## License
-
-This project is released under the [BSD-3-Clause License](../../../../LICENSE).
